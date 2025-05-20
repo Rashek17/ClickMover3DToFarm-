@@ -1,0 +1,77 @@
+# Archivos y carpetas de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de configuración del sistema
+.DS_Store
+*.swp
+*.lock
+*.tmp
+*.bak
+
+# Archivos de VSCode/JetBrains Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Configuración local de Unity
+*.pidb.meta
+*.pdb
+*.mdb
+
+# Archivos generados automáticamente
+*.apk
+*.aab
+*.unitypackage
+
+# Archivos de caché
+*.db
+*.log
+*.stacktrace
+
+# Archivos ocultos de sistema o backup
+*.~*
+*.orig
+
+# Archivos de builds locales (opcional si quieres ignorarlos)
+*.exe
+*.app
+*.dll
+
+# Archivos de Android/Gradle
+.gradle/
+build/
+*.gradle
+*.iml
+local.properties
+
+# Archivos de Visual Studio para Mac
+.vscode/
+*.csproj
+*.sln
+
+# Archivos para colaboración de Unity (si no se usa Unity Collaborate)
+.collab/
+
+# Archivos de la carpeta AutoSave de Unity
+AutoSave/
+
+# Carpetas comunes de plataformas externas
+ExternalDependencyManager/
+
+# Ignorar paquetes descargados
+Packages/manifest.json
+Packages/packages-lock.json
